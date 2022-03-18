@@ -1,18 +1,12 @@
 ## Alexis Morcrette
 
-(A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.)
+I am a committed, reflective and compassionate experienced professional, and now also a hardworking, thoughtful and collaborative junior software engineer. I seek new challenges in tech that will harness my analytical strengths and unlock my creativity.
 
-Alexis Morcrette is an experienced team leader working in the UK and internationally at the intersection of economics, business and social policy.
+Over the past 12 years, I have developed into an experienced team leader, responsible for delivering ambitious (and in the context of Covid, fast-paced) investment and support programmes for community and social enterprises in the UK and abroad. I have been sought after for strategic policy insight, and depended on to nurture high-performing teams and help colleagues thrive.
 
-Alexis' expertise focuses particularly on delivering economic research, market and business intelligence, building social performance management systems, and conducting independent evaluations. Alexis deploys these skills to contribute to strategic decision-making and adaptive management in impact investing, grant-making and technical assistance programmes and shared value initiatives. Alexis has also built up significant experience in programme development and fund management.
+I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher, I studied economic development policy, statistical methods, and sociology at London School of Economics and Political Science. Recently I have indulged my love of learning and wide ranging interests. I have taken online courses in machine learning, complexity science, neuroscience, illustration and digital design, while also reading cosmology and about my local Anglo-saxon history.
 
-Most of Alexis' work experience has involved partnering with and promoting the development of the private sector to contribute to inclusive, sustained and sustainable economic growth and prosperity. 
-
-International assignments in Africa and South Asia have varied widely and include developing performance-based contracting mechanisms for sanitation services in urban slums, designing interventions to promote trade competitiveness in agriculture, building impact investing pipeline, piloting new commercial financial products that extend financial inclusion, and working with businesses to develop viable apprenticeship programmes for marginalised young people.
-
-More recently, Alexis' work at Power to Change Trust has concentrated on assisting local groups in England to secure community assets and build resilient and impactful enterprises with the help of grants, social investment, business development support and peer mentoring.
-
-Alexis has a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher, studied economic development policy, statistical methods, and sociology at London School of Economics and Political Science.
+Digital tech is a force that now profoundly shapes almost every aspect of our lives and our society, and whose influence is only set to deepen. I want to get ‘under the hood’ of the tech that curates, shepherds, frees and contribute to leveraging it to make our society more just and sustainable.
 
 ## Projects (WIP)
 
