@@ -1,12 +1,12 @@
 ## Alexis Morcrette
 
-I am a committed, reflective and compassionate experienced professional, and now also a hardworking, thoughtful and collaborative junior software engineer. I seek new challenges in tech that will harness my analytical strengths and unlock my creativity.
+I am an experienced professional, and I take pride in being committed, reflective and compassionate. Now, over the past few months, I have also become a hardworking, thoughtful and collaborative junior software engineer! I seek new challenges in tech that will harness my analytical strengths and unlock my creativity, and provide me the opportunity to work with and learn from the best in the industry.
 
-Over the past 12 years, I have developed into an experienced team leader, responsible for delivering ambitious (and in the context of Covid, fast-paced) investment and support programmes for community and social enterprises in the UK and abroad. I have been sought after for strategic policy insight, and depended on to nurture high-performing teams and help colleagues thrive.
+Over the past 12 years, I have developed into an experienced team leader, responsible for delivering ambitious investment and support programmes for community and social enterprises in the UK and the private sector in Africa and South Asia. My bosses been depended on me to nurture high-performing teams and help colleagues thrive at work. I have made substantive contributions to corporate and public policy strategy through my research and evaluation output. 
 
-I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher, I studied economic development policy, statistical methods, and sociology at London School of Economics and Political Science. Recently I have indulged my love of learning and wide ranging interests. I have taken online courses in machine learning, complexity science, neuroscience, illustration and digital design, while also reading cosmology and about my local Anglo-saxon history.
+I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher, I studied economic development policy, statistical methods, and sociology at London School of Economics and Political Science. Recently, I have indulged my love of learning and wide ranging interests: I have taken online courses in machine learning, complexity science, neuroscience, illustration and digital design, while also reading cosmology and about my local Anglo-saxon history.
 
-Digital tech is a force that now profoundly shapes almost every aspect of our lives and our society, and whose influence is only set to deepen. I want to get ‘under the hood’ of the tech that curates, shepherds, frees and contribute to leveraging it to make our society more just and sustainable.
+Digital tech is a force that now profoundly shapes almost every aspect of our lives and our society, and whose influence is only set to deepen. I want to get ‘under the hood’ of the tech that curates, shepherds, frees us and contribute to leveraging it to make our society more just and sustainable.
 
 ## Projects (WIP)
 
@@ -25,18 +25,18 @@ _Head of Growth Programmes_
 **Water & Sanitation for the Urban Poor** (Oct 2017 - Jun 2018)  
 _Head of Innovation and Consumer Needs_
 
-(- Any experience relevent to software development)
-
-Senior management team member and Head of Business Solutions, Innovation and Consumer Needs department, leading an interdisciplinary team (2 direct line reports, 5 additional functional reports) of engineers, designers, economists and business advisers. My team supports the organisation’s innovation culture, delivers research to generate consumer and market insights, and use them to design and pilot innovations, and invest to scale sustainable institutional, technology and business solutions aiming to address constraints which limited access of low income consumers in cities to water supply and sanitation services
-
-I led an interdisciplinary team of strategists in engineering, design, economics and business, to deliver technical assistance to urban water, sanitation and hygiene programmes in Africa and Asia.
-
-We sought to leverage consumer and market insights to design and pilot innovations and scale sustainable institutional, technology and business solutions that address constraints which limit access of low income consumers in cities to water supply and sanitation services.
+- Senior management team member and Head of Business Solutions, Innovation and Consumer Needs department.
+- Leading an interdisciplinary team of strategists in engineering, design, economics and business.
+- Supported the organisation’s innovation culture, delivered research to generate consumer and market insights, and used them to design and pilot innovations, and invest to scale sustainable institutional, technology and business solutions.
+- Aims were to address constraints which limited access of low income consumers in cities to water supply and sanitation services.
 
 **Adam Smith International** (Aug 2015 - Oct 2017)  
 _Senior Manager (Advisory)_
 
-Direction of large portfolio of evidence-into-use functional teams. Member of the Inclusive Economic Advisory Team, delivering short and long term technical advisory services to ASI's portfolio of inclusive economic growth projects and to external clients. We also provide technical leadership in business development, develop and deliver scalable technical offerings (training courses, communities of practice, good practice standards and guidance) and contribute to outward-facing thought leadership.
+- Directed large portfolio of evidence-into-use functional teams.
+- Member of the Inclusive Economic Advisory Team, delivering short and long term technical advisory services to ASI's portfolio of inclusive economic growth projects and to external clients.
+- Provided technical leadership in business development, developed and delivered scalable technical offerings (training courses, communities of practice, good practice standards and guidance).
+- Contributed to outward-facing thought leadership.
 
 I was a member of the Advisory Team within the Private Sector Development (later, Inclusive Economic Growth) Practice. We delivered short and long term technical advisory services to ASI's portfolio of private sector and market systems development projects and to external clients. We also provided technical leadership in corporate business development, developed and delivered scalable technical offerings (training courses, communities of practice, toolkits, good practice standards and guidance) and contributed to outward-facing thought leadership.
 
