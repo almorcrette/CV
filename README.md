@@ -75,33 +75,35 @@ _Associate_ - Kathmandu, Nepal
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Driving for impact
+_I am purposeful in what I do. I zoom from the big picture to the nitty gritty and back again, to see the wood for the trees and focus on what matters._
 
--STAR
--What was the situation/task? (ST)
+- Most of my work experience has involved partnering with and promoting the development of the private sector to contribute to inclusive, sustained and sustainable economic growth and prosperity.
+- International assignments in Africa and South Asia have varied widely and include developing performance-based contracting mechanisms for sanitation services in urban slums, designing interventions to promote trade competitiveness in agriculture, building impact investing pipeline, piloting new commercial financial products that extend financial inclusion, and working with businesses to develop viable apprenticeship programmes for marginalised young people.
+- More recently, my work at Power to Change Trust has concentrated on assisting local groups in England to secure community assets and build resilient and impactful enterprises with the help of grants, social investment, business development support and peer mentoring.
 
--How was the skill used?
+#### Unknotting problems
+_I am deeply analytical and dig into the roots of problems to disintengle and uncover effective and sometimes innovative solutions._
 
--What did you do? (action)
+- My expertise focuses particularly on delivering economic research, market and business intelligence, building social performance management systems, and conducting independent evaluations.
+- I have deployed these skills to contribute to strategic decision-making and adaptive management in impact investing, grant-making and technical assistance programmes and shared value initiatives.
 
--What was the result?
+#### Eagle-eyed... and -beaked
+_I am very observant, quick to notice things, and have a strong attention to detail. I am also relentless in my pursuit of high standards._
 
+- At Power to Change and at ASI, I was responsible for ensuring programme compliance to various national and international legislation and regulation.
+- This includes UK Charity Law, OECD’s Oversees Development Assistance rules, DFID’s guidelines on working through the private sector and Donor Committee for Enterprise Development (DCED)’s Standard for measuring results in private sector development.
 
-#### This Skill
+#### Getting things done
+_I combine determination with pragmatism to ensure that I am reliably dependable._
 
-- Experience
-- Achievements
-- Evidence (STAR)
+- For example, in 2020 I emerged as Power to Change's leader in its Covid-19 response. Within the first four months of the pandemic and the first national lockdown, I'd delivered a £2.2m emergency trading income support scheme from conception to disbursement, injecting critical cashflow support into 100 community businesses who'd had to close their doors, enabling them to continue to deliver critical local services.
+- The scheme's success resulted in being given the brief to scope, develop and deliver a follow-up £5.5m one-year funding, support and investment during, which I executed on time and to budget at a time when the organisation was going through a massive restructure.
 
-#### Another Skill
+#### Nurturing people
+_I am a team player. I dedicated to helping my colleagues to thrive so that they can support me in return, and together we perform exceptionally._
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- At Power to Change and Adam Smith International, my bosses been depended on me to nurture high-performing teams and help colleagues thrive at work. I have come to believe strongly that looking after staff will bring out the best in them and the best for their employers.
 
 ## Education
 
@@ -148,9 +150,6 @@ The nervous system; neural communication and embodied emotion; neuroanatomy; per
 - Elected chair of Board of Trustees (Mar 2020 - Mar 2023)
 - Our goal at Chronically Awesome is to support people living with incurable chronic illness, helping them in their journeys through life so that they can live up to their true potential.
 - We focus especially on unlocking the potential of young people and those of working age.
-- Chronically Awesome is a dedicated community for people living with chronic illness. We’re a safe space that is supportive and understanding of the challenges they face in their everyday lives.
-- We also welcome friends, family and colleagues of people living with chronic illness – as well as professionals who serve them – who want to listen, learn and contribute to our mission.
-- At, Chronically Awesome, we provide reliable information, guidance and discussion to help people living with chronic illness to become more resilient in mind and body – stronger, fitter, healthier, happier.
 - Our areas of focus are: (1) Movement and Exercise; (2) Food and Nutrition; (3) Mental Health, and (4) Navigating Life and Work.
 
 **Deputy Chair** (Jul 2019 - Dec 2019) - _Friends of The Admiral's Head_
