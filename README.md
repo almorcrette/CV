@@ -18,87 +18,60 @@ Digital tech is a force that now profoundly shapes almost every aspect of our li
 ## Work Experience
 
 **Power to Change Trust** (Aug 2018 - Dec 2021)  
-_Head of Growth Programmes_
+_Head of Growth Programmes_ - London UK
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Team leader responsible for programme delivery at major National Lottery funder and social investor.
+- Overall responsibility for offer to established community-based social enterprises in England to help them grow, secure land and buildings, become more financially viable and resilient, including £30m+ Community Business Fund. 
+- Jointly led organisation's Covid-19 response, including a £2.2m rapid response scheme delivered from conception to full disbursement in 4 months (Apr - Jul 2020), and later a £5.5m one-year renewal initiative to support businesses to respond, adapt and evolve to the changing context.
+- Also led organisation's continous improvement activities, supporting good investment and grant-making practice, creating spaces for effective organisational learning and delivering data-driven insights to inform decision-making.
+- Product Manager for major UX and business process re-engineering initiative which delivered a significant new customer portal.
 
 **Water & Sanitation for the Urban Poor** (Oct 2017 - Jun 2018)  
-_Head of Innovation and Consumer Needs_
+_Head of Innovation and Consumer Needs_ - London UK, with international travel
 
-- Senior management team member and Head of Business Solutions, Innovation and Consumer Needs department.
+- Senior management team member and Head of Business Solutions, Innovation and Consumer Needs department of international multi-sector partnership.
 - Leading an interdisciplinary team of strategists in engineering, design, economics and business.
 - Supported the organisation’s innovation culture, delivered research to generate consumer and market insights, and used them to design and pilot innovations, and invest to scale sustainable institutional, technology and business solutions.
-- Aims were to address constraints which limited access of low income consumers in cities to water supply and sanitation services.
+- Aims were to address constraints which limited access of low income consumers in cities in Africa and Asia to water supply and sanitation services.
 
 **Adam Smith International** (Aug 2015 - Oct 2017)  
-_Senior Manager (Advisory)_
+_Senior Manager (Advisory)_ - London UK, with international travel
 
-- Directed large portfolio of evidence-into-use functional teams.
-- Member of the Inclusive Economic Advisory Team, delivering short and long term technical advisory services to ASI's portfolio of inclusive economic growth projects and to external clients.
-- Provided technical leadership in business development, developed and delivered scalable technical offerings (training courses, communities of practice, good practice standards and guidance).
+- Member of the Advisory Team within the Inclusive Economic Growth practice at leading international development contractor.
+- Delivered short and long term technical advisory services to ASI's portfolio of private sector and market development development projects in Africa and Asia and to external clients including impact investor and project developer AgDevCo and UK government business cases.
+- Providing direction on results management functions in large and complex DFID programmes in Democratic Republic of Congo, Northern Nigeria and Sierra Leone.
+- Provided technical leadership in business development (including £15m+ winning bid), developed and delivered technical offerings (training courses, communities of practice, good practice standards and guidance).
 - Contributed to outward-facing thought leadership.
 
-I was a member of the Advisory Team within the Private Sector Development (later, Inclusive Economic Growth) Practice. We delivered short and long term technical advisory services to ASI's portfolio of private sector and market systems development projects and to external clients. We also provided technical leadership in corporate business development, developed and delivered scalable technical offerings (training courses, communities of practice, toolkits, good practice standards and guidance) and contributed to outward-facing thought leadership.
-
-My personal assignments have included:
-
-- Providing direction on results management functions in large and complex DFID programmes, including ELAN RDC (Democratic Republic of Congo Market Systems Development Programme), Mafita (Northern Nigeria Skills and Employment Programme), and the Sierra Leone Opportunities for Business Action market systems development programme;
-
-- Jointly with colleagues, developing and delivering training courses on market systems development (5-day), monitoring and results measurement (3-day), and Getting Market Innovations to Scale (1-day), and delivering them to a variety of groups, including DFID, Sida and ASI staff (London, 2016), project team of Sierra Leone Opportunities for Business Action (Freetown, 2016 and 2017), the Financial Sector Deepening Network (Addis Ababa, 2016), ELAN RDC project team (Kinshasa, 2016);
-
-- Conducting economic analysis and developing the logical, results and adaptive management framework that formed part of the business case of the DFID Dar-es-Salaam Jobs programme;
-
-- Taking technical leadership in a winning, large-scale bid for an ambitious and innovative new agricultural investment and trade promotion programme targeting poverty reduction;
-
-- Leading a review, benchmarking exercise and set of recommendations on impact management for agribusiness impact investor and project developer AgDevCoI was a member of the Advisory Team within the Private Sector Development (later, Inclusive Economic Growth) Practice. We delivered short and long term technical advisory services to ASI's portfolio of private sector and market systems development projects and to external clients. We also provided technical leadership in corporate business development, developed and delivered scalable technical offerings (training courses, communities of practice, toolkits, good practice standards and guidance) and contributed to outward-facing thought leadership. My personal assignments have included: - Providing direction on results management functions in large and complex DFID programmes, including ELAN RDC (Democratic Republic of Congo Market Systems Development Programme), Mafita (Northern Nigeria Skills and Employment Programme), and the Sierra Leone Opportunities for Business Action market systems development programme; - Jointly with colleagues, developing and delivering training courses on market systems development (5-day), monitoring and results measurement (3-day), and Getting Market Innovations to Scale (1-day), and delivering them to a variety of groups, including DFID, Sida and ASI staff (London, 2016), project team of Sierra Leone Opportunities for Business Action (Freetown, 2016 and 2017), the Financial Sector Deepening Network (Addis Ababa, 2016), ELAN RDC project team (Kinshasa, 2016); - Conducting economic analysis and developing the logical, results and adaptive management framework that formed part of the business case of the DFID Dar-es-Salaam Jobs programme; - Taking technical leadership in a winning, large-scale bid for an ambitious and innovative new agricultural investment and trade promotion programme targeting poverty reduction; - Leading a review, benchmarking exercise and set of recommendations on impact management for agribusiness impact investor and project developer AgDevCo
-
 **Practical Action** (Apr 2013 - Aug 2015)  
-_Programme Coordinator_
+_Programme Coordinator_ - Rugby UK, with international travel
 
-Led the growth and diversification of Practical Action's international Urban Services programme, particularly in public private partnerships in sanitation service delivery and water, sanitation and waste markets. Working across programme, finance, policy, funding and communications teams.
-Also advised Practical Action's programmes internationally on private sector partnership and market systems development, across its themes of food and agriculture, access to energy, climate resilience and urban services.
-Served on ACRE's Executive Committee and led Practical Action's activities as a member of the impact investing consortium. Managed an international team covering Bangladesh, Nepal, Kenya, Sudan and Zimbabwe identifying investment prospects and delivering technical assistance for investment readiness.
+- Led growth and diversification of Practical Action's international Urban Services programme, particularly in public private partnerships in sanitation service delivery and water, sanitation and waste markets. 
+- Achieved significant new funding during period from Bill and Melinda Gates Foundation, DFID and Comic Relief.
+- Worked across programme, finance, policy, funding and communications teams.
+- Also advised Practical Action's programmes internationally on private sector partnership and market systems development, across its themes of food and agriculture, access to energy, climate resilience and urban services.
+- Served on Access to Capital for Rural Enterprises' Executive Committee and led Practical Action's activities as a member of the impact investing consortium: managed an international team covering Bangladesh, Nepal, Kenya, Sudan and Zimbabwe identifying investment prospects and delivering technical assistance for investment readiness.
 
-Led the growth and diversification of Practical Action's international Urban Services programme, particularly in the areas of public private partnerships in sanitation service delivery and WASH markets. Significant new funding during period from Bill and Melinda Gates Foundation, DFID and Comic Relief.
-
-Also advised Practical Action's programmes internationally on private sector partnerships and market systems development, across its themes of food and agriculture, access to energy, climate resilience and urban services.
 
 **Swisscontact** (Apr 2012 - Mar 2013)  
-_Monitoring and Results Measurement Advisor_
+_Monitoring and Results Measurement Advisor_ - Nairobi, Kenya with regional travel
 
-Established and led Swisscontact’s monitoring, evaluation and learning unit in East Africa, covering over 20 projects across 4 countries Kenya, Uganda, Tanzania and Rwanda
+- Established and led Swisscontact’s monitoring, evaluation and learning unit in East Africa.
+- Responsible for training, technical support and quality assurance  across a portfolio of 17 projects in four countries (Kenya, Uganda, Tanzania, Rwanda).
 
-Swisscontact is a Swiss foundation promoting poverty reduction and international cooperation through private sector development.
-
-Established and headed the Monitoring and Results Measurement Unit for East Africa. Responsible for capacity building, technical support and quality assurance of monitoring and results-based management functions across a portfolio of 17 projects in 4 countries. 
-
-Advisor on Making Markets Work for the Poor (M4P) and related markets and value chain work.
 
 **Practical Action** (Sep 2010 - Mar 2012)  
-_Programme Researcher_
+_Programme Researcher_ - Rugby, UK
 
-Technical support to market systems facilitation projects (Nepal, Bangladesh, Sri Lanka), including toolkit development (www.pmsdroadmap.org). Coordinated M&E strengthening activities internally and externally in collaboration with USAID GROOVE Learning Network and SEEP Market Facilitation Initiative.
-
-Part of an international team focused on programme support, learning and external influencing in the area of pro-poor market systems, market facilitation and Making Markets Work for the Poor (M4P).
-
-Providing in-country and remote support to programmes in Nepal, Bangladesh and Sri Lanka.
-
-Development of the Participatory Market System Development (PMSD) Roadmap, a detailed online library of technical guidance, training materials and case examples from Practical Action's ten years of systemic market development and market facilitation.
+- Part of an international team focused on programme support, learning and external influencing in the area of pro-poor market systems development.
+- Providing in-country and remote support to programmes in Nepal, Bangladesh and Sri Lanka.
+- Developed detailed operating toolkit, including a detailed online library of technical guidance, training materials and case examples.
 
 **Practical Action Consulting** (Dec 2009 - Jul 2010)  
-_Associate_
+_Associate_ - Kathmandu, Nepal
 
-Providing project development support and consultancy services to the South Asian office in Kathmandu. Projects included: assisting Practical Action Nepal's markets team to develop the dairy market system facilitation programme (funded by DFID 2010-2014).
-
-Providing project development support and consultancy services to the South Asian office in Kathmandu.
-
-Projects include:
-
-- Disaster Management Consultant - Acting Team Leader on Food And Agriculture Organization project: District Disaster Risk Management Plans for Arghakhanchi, Kapilvastu, Siraha and Udayapur
-
-- Junior Climate Change Consultant - Focal Point Coordinator for launch of NERC/ESRC/DFID Ecosystem Services for Poverty Alleviation
-
-- Assisted Practical Action Nepal's markets team to develop the dairy market system facilitation programme (funded by DFID 2010-2014).
+- Provided project development support and consultancy services to the South Asian office in Kathmandu.
+- Projects included: assisting Practical Action Nepal's markets team to develop the dairy market system facilitation programme (funded by DFID 2010-2014); acting team leader on Food And Agriculture Organization project developing disaster risk management plans.
 
 ## Skills
 
