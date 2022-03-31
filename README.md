@@ -1,13 +1,13 @@
 ## Alexis Morcrette
 
-I am an experienced professional, and I take pride in being committed, reflective and compassionate. Now, over the past few months, I have also become a hardworking, thoughtful and collaborative junior software engineer! I seek new challenges in tech that will harness my analytical strengths and unlock my creativity, and provide me the opportunity to work with and learn from the best in the industry.
+I am a newly trained software engineer, with 12 years of previous professional experience in international development and social finance. I seek new challenges in tech that will harness my analytical strengths and unlock my creativity. I want to work with and learn from the best in the industry. My goal is contribute to make our society more just and sustainable.
+
 
 Over the past 12 years, I have developed into an experienced team leader, responsible for delivering ambitious investment and support programmes for community and social enterprises in the UK and the private sector in Africa and South Asia. My bosses been depended on me to nurture high-performing teams and help colleagues thrive at work. I have made substantive contributions to corporate and public policy strategy through my research and evaluation output. 
 
 I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher, I studied economic development policy, statistical methods, and sociology at London School of Economics and Political Science. Recently, I have indulged my love of learning and wide ranging interests: I have taken online courses in machine learning, complexity science, neuroscience, illustration and digital design, while also reading cosmology and about my local Anglo-saxon history.
 
-Digital tech is a force that now profoundly shapes almost every aspect of our lives and our society, and whose influence is only set to deepen. I want to get ‘under the hood’ of the tech that curates, shepherds, frees us and contribute to leveraging it to make our society more just and sustainable.
-
+Digital tech is a force that now profoundly shapes almost every aspect of our lives and our society, and whose influence is only set to deepen. I want to get ‘under the hood’ of the tech that curates, shepherds, frees us and contribute to leveraging as a force for good.
 ## Projects (WIP)
 
 | Name                               | Description             | Tech/tools              |
