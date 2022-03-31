@@ -1,6 +1,6 @@
 ## Alexis Morcrette
 
-I am a newly trained software engineer, with 12 years of previous professional experience in international development and social finance. I seek new challenges in tech that will harness my analytical strengths and unlock my creativity. I want to work with and learn from the best in the industry. My goal is contribute to make our society more just and sustainable.
+I am a newly trained software engineer, with 12 years of previous professional experience in international development and social finance. I seek new challenges in tech that will harness my analytical strengths and unlock my creativity. I want to work with and learn from the best in the industry. My goal is to contribute to make our society more just and sustainable.
 
 
 Over the past 12 years, I have developed into an experienced team leader, responsible for delivering ambitious investment and support programmes for community and social enterprises in the UK and the private sector in Africa and South Asia. My bosses been depended on me to nurture high-performing teams and help colleagues thrive at work. I have made substantive contributions to corporate and public policy strategy through my research and evaluation output. 
