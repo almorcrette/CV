@@ -7,7 +7,7 @@ Over the past 12 years, I have developed into an experienced team leader, respon
 
 I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher, I studied economic development policy, statistical methods, and sociology at London School of Economics and Political Science. Recently, I have indulged my love of learning and wide ranging interests: I have taken online courses in machine learning, complexity science, neuroscience, illustration and digital design, while also reading cosmology and about my local Anglo-saxon history.
 
-Digital tech is a force that now profoundly shapes almost every aspect of our lives and our society, and whose influence is only set to deepen. I want to get ‘under the hood’ of the tech that curates, shepherds, frees us and contribute to leveraging as a force for good.
+Digital tech is a force that now profoundly shapes almost every aspect of our lives and our society, and whose influence is only set to deepen. I want to get ‘under the hood’ of the tech that curates, shepherds, frees us and contribute to leveraging it as a force for good.
 ## Projects (WIP)
 
 | Name                               | Description             | Tech/tools              |
