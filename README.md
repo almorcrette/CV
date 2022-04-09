@@ -33,14 +33,16 @@ _Head of Innovation and Consumer Needs_ - London UK, with international travel
 - Leading an interdisciplinary team of strategists in engineering, design, economics and business.
 - Supported the organisation’s innovation culture, delivered research to generate consumer and market insights, and used them to design and pilot innovations, and invest to scale sustainable institutional, technology and business solutions.
 - Aims were to address constraints which limited access of low income consumers in cities in Africa and Asia to water supply and sanitation services.
+- Consulting assignments in Sierra Leone, Madagascar ands Bangladesh.
 
 **Adam Smith International** (Aug 2015 - Oct 2017)  
 _Senior Manager (Advisory)_ - London UK, with international travel
 
 - Member of the Advisory Team within the Inclusive Economic Growth practice at leading international development contractor.
-- Delivered short and long term technical advisory services to ASI's portfolio of private sector and market development development projects in Africa and Asia and to external clients including impact investor and project developer AgDevCo and UK government business cases.
+- Delivered short and long term technical advisory services to ASI's portfolio of private sector and market development development projects in Africa and Asia and to external clients including impact investor and project developer AgDevCo,  Financial Sector Deepening Network and on UK government business cases. Assignments in Myanmar, Malawi and Rwanda.
 - Providing direction on results management functions in large and complex DFID programmes in Democratic Republic of Congo, Northern Nigeria and Sierra Leone.
-- Provided technical leadership in business development (including £15m+ winning bid), developed and delivered technical offerings (training courses, communities of practice, good practice standards and guidance).
+- Led winning technical business development, including a £15m+ bid.
+- Developed and delivered technical offerings (training courses, communities of practice, good practice standards and guidance).
 - Contributed to outward-facing thought leadership.
 
 **Practical Action** (Apr 2013 - Aug 2015)  
