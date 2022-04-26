@@ -78,7 +78,7 @@ _Associate_ - Kathmandu, Nepal
 ## Skills
 
 #### Driving for impact
-_I am purposeful in what I do. I zoom in from the big picture to the nitty gritty and back again, to see the wood for the trees and focus on what matters._
+_I am purposeful in what I do. I zoom in from the big picture to the nitty gritty and back out again, to see the wood for the trees and focus on what matters._
 
 - 
 - Most of my work experience has involved partnering with and promoting the development of the private sector to contribute to inclusive, sustained and sustainable economic growth and prosperity.
