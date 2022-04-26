@@ -78,8 +78,9 @@ _Associate_ - Kathmandu, Nepal
 ## Skills
 
 #### Driving for impact
-_I am purposeful in what I do. I zoom from the big picture to the nitty gritty and back again, to see the wood for the trees and focus on what matters._
+_I am purposeful in what I do. I zoom in from the big picture to the nitty gritty and back again, to see the wood for the trees and focus on what matters._
 
+- 
 - Most of my work experience has involved partnering with and promoting the development of the private sector to contribute to inclusive, sustained and sustainable economic growth and prosperity.
 - International assignments in Africa and South Asia have varied widely and include developing performance-based contracting mechanisms for sanitation services in urban slums, designing interventions to promote trade competitiveness in agriculture, building impact investing pipeline, piloting new commercial financial products that extend financial inclusion, and working with businesses to develop viable apprenticeship programmes for marginalised young people.
 - More recently, my work at Power to Change Trust has concentrated on assisting local groups in England to secure community assets and build resilient and impactful enterprises with the help of grants, social investment, business development support and peer mentoring.
