@@ -39,7 +39,7 @@ _Head of Innovation and Consumer Needs_ - London UK, with international travel
 _Senior Manager (Advisory)_ - London UK, with international travel
 
 - Member of the Advisory Team within the Inclusive Economic Growth practice at leading international development contractor.
-- Delivered short and long term technical advisory services to ASI's portfolio of private sector and market development projects in Africa and Asia and to external clients including impact investor and project developer AgDevCo,  Financial Sector Deepening Network and on UK government business cases. Assignments in Myanmar, Malawi and Rwanda.
+- Delivered short and long term technical advisory services to ASI's portfolio of private sector and market development projects in Africa and Asia and to external clients including impact investor and project developer AgDevCo, Africa's Financial Sector Deepening Network and on UK government business cases. Assignments in Myanmar, Malawi and Rwanda.
 - Providing direction on results management functions in large and complex DFID programmes in Democratic Republic of Congo, Northern Nigeria and Sierra Leone.
 - Led winning technical business development, including a £15m+ bid.
 - Developed and delivered technical offerings (training courses, communities of practice, good practice standards and guidance).
