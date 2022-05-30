@@ -33,7 +33,7 @@ _Head of Innovation and Consumer Needs_ - London UK, with international travel
 - Leading an interdisciplinary team of strategists in engineering, design, economics and business.
 - Supported the organisation’s innovation culture, delivered research to generate consumer and market insights, and used them to design and pilot innovations, and invest to scale sustainable institutional, technology and business solutions.
 - Aims were to address constraints which limited access of low income consumers in cities in Africa and Asia to water supply and sanitation services.
-- Consulting assignments in Sierra Leone, Madagascar ands Bangladesh.
+- Consulting assignments in Sierra Leone, Madagascar and Bangladesh.
 
 **Adam Smith International** (Aug 2015 - Oct 2017)  
 _Senior Manager (Advisory)_ - London UK, with international travel
