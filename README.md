@@ -23,7 +23,7 @@ _Head of Growth Programmes_ - London UK
 - Team leader responsible for programme delivery at major National Lottery funder and social investor.
 - Overall responsibility for offer to established community-based social enterprises in England to help them grow, secure land and buildings, become more financially viable and resilient, including £30m+ Community Business Fund. 
 - Jointly led organisation's Covid-19 response, including a £2.2m rapid response scheme delivered from conception to full disbursement in 4 months (Apr - Jul 2020), and later a £5.5m one-year renewal initiative to support businesses to respond, adapt and evolve to the changing context.
-- Also led organisation's continous improvement activities, supporting good investment and grant-making practice, creating spaces for effective organisational learning and delivering data-driven insights to inform decision-making.
+- Also led organisation's continuous improvement activities, supporting good investment and grant-making practice, creating spaces for effective organisational learning and delivering data-driven insights to inform decision-making.
 - Product Manager for major UX and business process re-engineering initiative which delivered a significant new customer portal.
 
 **Water & Sanitation for the Urban Poor** (Oct 2017 - Jun 2018)  
