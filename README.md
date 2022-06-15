@@ -18,7 +18,7 @@ Digital tech is a force that now profoundly shapes almost every aspect of our li
 
 ## Work Experience
 
-**Power to Change Trust** (Aug 2018 - Dec 2021)  
+### Power to Change Trust (Aug 2018 - Dec 2021)  
 _Head of Growth Programmes_ - London UK
 
 Team leader responsible for offer to established community-based social enterprises in England - including £30m+ Community Business Fund - at major National Lottery funder and social investor. 
