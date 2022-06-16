@@ -10,7 +10,7 @@ Digital tech is a force that now profoundly shapes almost every aspect of our li
 
 ## Projects
 
-| Name                                                                                         | Description                                            | Tech/tools                                    |
+| <div style="width:120px">Name</div>  | Description                                            | Tech/tools                                    |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- |
 | [**Mix-a-Mood**](https://github.com/almorcrette/mix-a-mood)                                  | A light-hearted webapp to help users become mindful about their moods | Node, Express, Jest, Cypress |
 | [**Meta-Perverse**](https://github.com/Conor-Developer/acebook-metaperverse)                 | A webapp cloning Facebook features (Makers group engineering project  | MongoDB, Mongoose, Express, Node, Handlebars, Jest, Cypress              |
