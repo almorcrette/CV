@@ -18,8 +18,7 @@ Digital tech is a force that now profoundly shapes almost every aspect of our li
 
 ## Work Experience
 
-### Power to Change Trust (Aug 2018 - Dec 2021)  
-#### _Head of Growth Programmes_ - London UK
+### Power to Change Trust (Aug 2018 - Dec 2021) - _Head of Growth Programmes_ - London UK
 
 Team leader responsible for offer to established community-based social enterprises in England - including £30m+ Community Business Fund - at major National Lottery funder and social investor. 
 
@@ -67,18 +66,18 @@ _I am very observant, quick to notice things, and have a strong attention to det
 [Read about how my attention to detail ensured high levels of policy compliance at Adam Smith International and Power to Change Trust, contributing to industry credibility and strengthening the evidence base for what works](/eagle-eyed.md)
 
 
-#### Unknotting problems
+### Unknotting problems
 _I am deeply analytical and dig into the roots of problems to disintengle and uncover effective and sometimes innovative solutions._
 
 - Product Manager for major UX and business process re-engineering initiative which delivered a significant new customer portal.
 - At Water & Sanitation for the Urban Poor, I led an interdisciplinary team of strategists in engineering, design, economics and business who delivered research to generate consumer and market insights, and used them to design and pilot innovations, and invest to scale sustainable institutional, technology and business solutions. Aims were to address constraints which limited access of low income consumers in cities in Africa and Asia to water supply and sanitation services.
 
-#### Nurturing people
+### Nurturing people
 _I am a team player. I dedicated to helping my colleagues to thrive so that they can support me in return, and together we perform exceptionally._
 
 [Read about how I used the delivery a mission-critical programme at pace at a time of crisis as an opportunitiy to motivate my colleagues and invest in their long-term skills development.](/nurturing-people.md)
 
-#### Getting things done
+### Getting things done
 _I combine determination with pragmatism to ensure that I am reliably dependable._
 
 [Read how I delivered Power to Change's ambitious Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board, at a time of significant upheaval at the organisation, and in society and the economy at large](/getting-things-done.md)
@@ -87,7 +86,7 @@ _I combine determination with pragmatism to ensure that I am reliably dependable
 
 ## Education
 
-**Makers Academy** (Feb 2022 - Jun 2022)
+### Makers Academy** (Feb 2022 - Jun 2022)
 - Behaviour-driven development and test-driven development (inside-out and outside-in)
 - Object-oriented design and programming (SOLID principles) and domain-driven design;
 - Fullstack JavaScript and Ruby (including Model View Controller pattern)
@@ -96,19 +95,19 @@ _I combine determination with pragmatism to ensure that I am reliably dependable
 - One independent engineering project drawing on product management modules completed with Udacity
 - Use of MongoDB, PostgresSQL, Node.js, Express, Mongoose, Handlebars, Sinatra, Cypress, Jest, RSpec, Capybara, ESLint, Rubocop, Simplecov, Github, Heroku
 
-**The London School of Economics and Political Science (LSE)** (Sep 2008 - Aug 2009)
+### The London School of Economics and Political Science (LSE)** (Sep 2008 - Aug 2009)
 
 - Development Studies (MSc)
 - Specialisms: Economic policy, statistical methods and sociology
 - Grade: Merit
 
-**University of Oxford** (Sep 2003 - Aug 2007)
+### University of Oxford** (Sep 2003 - Aug 2007)
 
 - Mathematics and Philosophy (MMathPhil)
 - Specialisms: Algebra, formal logic, analysis, combinatorics, topology, philosopy of mathematics
 - Grade: First Class Honours
 
-Any other qualifications:
+### Other qualifications:
 
 - Machine Learning - _Stanford University_ (Jan 2022 - Mar 2022) [(Credential)](coursera.org/verify/N9NGBADGL55Z)
 - Introduction to Complexity - _Santa Fe Institute_ (Jan 2022 - Feb 2022) [(Credential)](https://www.complexityexplorer.org/courses/119-introduction-to-complexity-2021/certificates/2277179394)
