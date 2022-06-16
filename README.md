@@ -69,22 +69,21 @@ _I combine determination with pragmatism to ensure that I am reliably dependable
 
 ## Education
 
-### Makers Academy** (Feb 2022 - Jun 2022)
+### Makers Academy (Feb 2022 - Jun 2022)
 - Behaviour-driven development and test-driven development (inside-out and outside-in)
-- Object-oriented design and programming (SOLID principles) and domain-driven design;
+- Object-oriented design and programming (SOLID principles) and domain-driven design
 - Fullstack JavaScript and Ruby (including Model View Controller pattern)
 - Pair-programming everyday through most of the course
 - Two group engineering projects following Extreme Programming values and agile approach
 - One independent engineering project drawing on product management modules completed with Udacity
-- Use of MongoDB, PostgresSQL, Node.js, Express, Mongoose, Handlebars, Sinatra, Cypress, Jest, RSpec, Capybara, ESLint, Rubocop, Simplecov, Github, Heroku
 
-### The London School of Economics and Political Science (LSE)** (Sep 2008 - Aug 2009)
+### The London School of Economics and Political Science (LSE) (Sep 2008 - Aug 2009)
 
 - Development Studies (MSc)
 - Specialisms: Economic policy, statistical methods and sociology
 - Grade: Merit
 
-### University of Oxford** (Sep 2003 - Aug 2007)
+### University of Oxford (Sep 2003 - Aug 2007)
 
 - Mathematics and Philosophy (MMathPhil)
 - Specialisms: Algebra, formal logic, analysis, combinatorics, topology, philosopy of mathematics
