@@ -55,34 +55,35 @@ Project development support and consultancy services to the South Asian office i
 
 ## Skills
 
-**Driving for impact**
+### Driving for impact
 
 _I am purposeful in what I do. I zoom from the big picture to the nitty gritty and back again, to see the wood for the trees and focus on what matters._
 
-[Read about how my impact management advisory services helped agribusiness impact investor and project developer AgDevCo and its major stakeholder UK Government Department for International Development strengthen its evidence base for the business case for UK developmental investment in commercial agriculture in Africa.](/driving-for-impact.md)
+[Read about how my impact management advisory services helped a prominent impact investor and its major UK Government stakeholder strengthen the business case for developmental investment in commercial agriculture in Africa.](/driving-for-impact.md)
+
+### Eagle-eyed
+_I am very observant, quick to notice things, and have a strong attention to detail. I am also relentless in my pursuit of high standards._
+
+[Read about how my attention to detail ensured high levels of policy compliance at Adam Smith International and Power to Change Trust, contributing to industry credibility and strengthening the evidence base for what works](/eagle-eyed.md)
+
 
 #### Unknotting problems
 _I am deeply analytical and dig into the roots of problems to disintengle and uncover effective and sometimes innovative solutions._
 
-- My expertise focuses particularly on delivering economic research, market and business intelligence, building social performance management systems, and conducting independent evaluations.
-- I have deployed these skills to contribute to strategic decision-making and adaptive management in impact investing, grant-making and technical assistance programmes and shared value initiatives.
-
-#### Eagle-eyed... and -beaked
-_I am very observant, quick to notice things, and have a strong attention to detail. I am also relentless in my pursuit of high standards._
-
-- At Power to Change and at ASI, I was responsible for ensuring programme compliance to various national and international legislation and regulation.
-- This includes UK Charity Law, OECD’s Oversees Development Assistance rules, DFID’s guidelines on working through the private sector and Donor Committee for Enterprise Development (DCED)’s Standard for measuring results in private sector development.
-
-#### Getting things done
-_I combine determination with pragmatism to ensure that I am reliably dependable._
-
-- For example, in 2020 I emerged as Power to Change's leader in its Covid-19 response. Within the first four months of the pandemic and the first national lockdown, I'd delivered a £2.2m emergency trading income support scheme from conception to disbursement, injecting critical cashflow support into 100 community businesses who'd had to close their doors, enabling them to continue to deliver critical local services.
-- The scheme's success resulted in being given the brief to scope, develop and deliver a follow-up £5.5m one-year funding, support and investment during, which I executed on time and to budget at a time when the organisation was going through a massive restructure.
+- Product Manager for major UX and business process re-engineering initiative which delivered a significant new customer portal.
+- At Water & Sanitation for the Urban Poor, I led an interdisciplinary team of strategists in engineering, design, economics and business who delivered research to generate consumer and market insights, and used them to design and pilot innovations, and invest to scale sustainable institutional, technology and business solutions. Aims were to address constraints which limited access of low income consumers in cities in Africa and Asia to water supply and sanitation services.
 
 #### Nurturing people
 _I am a team player. I dedicated to helping my colleagues to thrive so that they can support me in return, and together we perform exceptionally._
 
-- At Power to Change and Adam Smith International, my bosses been depended on me to nurture high-performing teams and help colleagues thrive at work. I have come to believe strongly that looking after staff will bring out the best in them and the best for their employers.
+[Read about how I used the delivery a mission-critical programme at pace at a time of crisis as an opportunitiy to motivate my colleagues and invest in their long-term skills development.](/nurturing-people.md)
+
+#### Getting things done
+_I combine determination with pragmatism to ensure that I am reliably dependable._
+
+[Read how I delivered Power to Change's ambitious Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board, at a time of significant upheaval at the organisation, and in society and the economy at large](/getting-things-done.md)
+
+
 
 ## Education
 
