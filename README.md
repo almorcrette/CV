@@ -48,7 +48,7 @@ _I am purposeful in what I do. I zoom from the big picture to the nitty gritty a
 ### Eagle-eyed
 _I am very observant, quick to notice things, and have a strong attention to detail. I am also relentless in my pursuit of high standards._
 
-[Read about how my attention to detail ensured high levels of policy compliance at Adam Smith International and Power to Change Trust, contributing to industry credibility and strengthening the evidence base for what works](/eagle-eyed.md)
+[Read about how my attention to detail ensured high levels of policy compliance at Adam Smith International and Power to Change Trust, contributing to industry credibility and strengthening the evidence base for what works.](/eagle-eyed.md)
 
 
 ### Unknotting problems
@@ -65,7 +65,7 @@ _I am a team player. I dedicated to helping my colleagues to thrive so that they
 ### Getting things done
 _I combine determination with pragmatism to ensure that I am reliably dependable._
 
-[Read how I delivered Power to Change's ambitious Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board, at a time of significant upheaval at the organisation, and in society and the economy at large](/getting-things-done.md)
+[Read how I delivered Power to Change's ambitious Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board, at a time of significant upheaval at the organisation, and in society and the economy at large.](/getting-things-done.md)
 
 ## Education
 
