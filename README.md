@@ -10,10 +10,13 @@ Digital tech is a force that now profoundly shapes almost every aspect of our li
 
 ## Projects
 
-| <div style="width:120px">Name</div>  | <div style="width:300px">Description</div>  | Tech/tools                                    |
+| <div style="width:200px">Name</div>  | <div style="width:300px">Description</div>  | Tech/tools                                    |
 | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- |
 | [**Mix-a-Mood**](https://github.com/almorcrette/mix-a-mood)                                  | A light-hearted webapp to help users become mindful about their moods | Node, Express, Jest, Cypress |
 | [**Meta-Perverse**](https://github.com/Conor-Developer/acebook-metaperverse)                 | A webapp cloning Facebook features (Makers group engineering project  | MongoDB, Mongoose, Express, Node, Handlebars, Jest, Cypress              |
+| [**Makersbnb**](https://github.com/monenavarro/makers_bnb)                 | A webapp cloning Airbnb features (Makers group engineering project  | Ruby, PostgreSQL, Sinatra, RSpec, Capybara              |
+| [**Visualizing Tech Stocks**](https://github.com/almorcrette/codecademy-visualizing-tech-stocks)                 | Small data visualization project part of Analyzing Financial Data with Python Codecademy course | Python, Pandas, Numpy, MatPlotLib, Pyplot, Jupyter Notebooks |
+| **Octave ML prototypes**                 | Consolidating learning from Stanford Online Machine Learning course by rebuilding algorithms from assignments and fine-tuning then to new data | Octave |
 
 ## Technologies
 
@@ -62,7 +65,7 @@ Long-term support and technical advisory services to leading international devel
 
 _I am purposeful in what I do. I zoom from the big picture to the nitty gritty and back again, to see the wood for the trees and focus on what matters._
 
-- My impact management advisory services helped a prominent impact investor and its major UK Government stakeholder strengthen the business case for developmental investment in commercial agriculture in Africa. [Read more](/driving-for-impact.md)
+- My impact management advisory services helped a prominent impact investor and its major UK Government stakeholder strengthen the business case for developmental investment in commercial agriculture in Africa. [Read more](/skills/driving-for-impact.md)
 
 ### Unknotting problems
 _I am deeply analytical and dig into the roots of problems to disintengle and uncover effective and sometimes innovative solutions._
@@ -72,17 +75,17 @@ _I am deeply analytical and dig into the roots of problems to disintengle and un
 ### Eagle-eyed
 _I am very observant, quick to notice things, and have a strong attention to detail. I am also relentless in my pursuit of high standards._
 
-- My attention to detail ensured high levels of policy compliance at Adam Smith International and Power to Change Trust, contributing to industry credibility and strengthening the evidence base for what works. [Read more](/eagle-eyed.md)
+- My attention to detail ensured high levels of policy compliance at Adam Smith International and Power to Change Trust, contributing to industry credibility and strengthening the evidence base for what works. [Read more](/skills/eagle-eyed.md)
 
 ### Getting things done
 _I combine determination with pragmatism to ensure that I am reliably dependable._
 
-- Despite significant upheaval at the organisation, and in society and the economy at large, I delivered Power to Change's ambitious Covid-19 Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board. [Read more](/getting-things-done.md)
+- Despite significant upheaval at the organisation, and in society and the economy at large, I delivered Power to Change's ambitious Covid-19 Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board. [Read more](/skills/getting-things-done.md)
 
 ### Nurturing people
 _I am a team player. I dedicated to helping my colleagues to thrive so that they can support me in return, and together we perform exceptionally._
 
-- I used a time-critial, mission-critical programme during a time of crisis to motivate my colleagues and invest in their long-term skills development. [Read more](/nurturing-people.md)
+- I used a time-critial, mission-critical programme during a time of crisis to motivate my colleagues and invest in their long-term skills development. [Read more](/skills/nurturing-people.md)
 
 ## Education
 
