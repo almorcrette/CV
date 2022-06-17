@@ -16,7 +16,7 @@ Digital tech is a force that now profoundly shapes almost every aspect of our li
 | [**Meta-Perverse**](https://github.com/Conor-Developer/acebook-metaperverse)                 | A webapp cloning Facebook features (Makers group engineering project)  | MongoDB, Mongoose, Express, Node, Handlebars, Jest, Cypress              |
 | [**Makersbnb**](https://github.com/monenavarro/makers_bnb)                 | A webapp cloning Airbnb features (Makers group engineering project)  | Ruby, PostgreSQL, Sinatra, RSpec, Capybara              |
 | [**Visualizing Tech Stocks**](https://github.com/almorcrette/codecademy-visualizing-tech-stocks)                 | Small data visualization project part of Analyzing Financial Data with Python Codecademy course | Python, Pandas, Numpy, MatPlotLib, Pyplot, Jupyter Notebooks |
-| **Octave ML prototypes**                 | Consolidating learning from Stanford Online Machine Learning course by rebuilding algorithms from assignments and fine-tuning then to new data | Octave |
+| **Octave ML prototypes**                 | Consolidating learning from Stanford Online Machine Learning course by rebuilding algorithms from assignments, training and fine-tuning them to new data | Octave |
 
 ## Technologies
 
