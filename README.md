@@ -1,4 +1,22 @@
 # Alexis Morcrette - Curriculum Vitae / Resume
+
+I am a newly trained software engineer, with more than a decade of previous professional experience in international development and social finance. I seek new challenges in tech that will harness my analytical strengths and unlock my creativity. I want to work with and learn from the best in the industry. My goal is to contribute to making our society more just and sustainable.
+
+Over the past 12 years, I have developed into an experienced team leader, responsible for delivering ambitious investment and support programmes for community and social enterprises in the UK and the private sector in Africa and South Asia. My bosses have depended on me to nurture high-performing teams and help colleagues thrive at work. I have also made substantive contributions to corporate strategy and public policy through my research and evaluation output. 
+
+I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher, I studied economic development policy, statistical methods, and sociology at London School of Economics and Political Science. Recently, I have indulged my love of learning and wide ranging interests: I have taken online courses in machine learning, complexity science, neuroscience, illustration and digital design, while also reading cosmology and about my local Anglo-saxon history.
+
+Digital tech is a force that now profoundly shapes almost every aspect of our lives and our society, and whose influence is only set to deepen. I want to get ‘under the hood’ of the tech that curates and shepherds, and sometimes frees us and contribute to leveraging it as a force for good.
+
+## Projects
+
+| <div style="width:120px">Name</div>  | <div style="width:300px">Description</div>  | Tech/tools                                    |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- |
+| [**Mix-a-Mood**](https://github.com/almorcrette/mix-a-mood)                                  | A light-hearted webapp to help users become mindful about their moods | Node, Express, Jest, Cypress |
+| [**Meta-Perverse**](https://github.com/Conor-Developer/acebook-metaperverse)                 | A webapp cloning Facebook features (Makers group engineering project  | MongoDB, Mongoose, Express, Node, Handlebars, Jest, Cypress              |
+
+## Technologies
+
 ![JavScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,22 +33,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-
-I am a newly trained software engineer, with more than a decade of previous professional experience in international development and social finance. I seek new challenges in tech that will harness my analytical strengths and unlock my creativity. I want to work with and learn from the best in the industry. My goal is to contribute to making our society more just and sustainable.
-
-Over the past 12 years, I have developed into an experienced team leader, responsible for delivering ambitious investment and support programmes for community and social enterprises in the UK and the private sector in Africa and South Asia. My bosses have depended on me to nurture high-performing teams and help colleagues thrive at work. I have also made substantive contributions to corporate strategy and public policy through my research and evaluation output. 
-
-I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher, I studied economic development policy, statistical methods, and sociology at London School of Economics and Political Science. Recently, I have indulged my love of learning and wide ranging interests: I have taken online courses in machine learning, complexity science, neuroscience, illustration and digital design, while also reading cosmology and about my local Anglo-saxon history.
-
-Digital tech is a force that now profoundly shapes almost every aspect of our lives and our society, and whose influence is only set to deepen. I want to get ‘under the hood’ of the tech that curates and shepherds, and sometimes frees us and contribute to leveraging it as a force for good.
-
-## Projects
-
-| <div style="width:120px">Name</div>  | <div style="width:300px">Description</div>  | Tech/tools                                    |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- |
-| [**Mix-a-Mood**](https://github.com/almorcrette/mix-a-mood)                                  | A light-hearted webapp to help users become mindful about their moods | Node, Express, Jest, Cypress |
-| [**Meta-Perverse**](https://github.com/Conor-Developer/acebook-metaperverse)                 | A webapp cloning Facebook features (Makers group engineering project  | MongoDB, Mongoose, Express, Node, Handlebars, Jest, Cypress              |
 
 ## Work Experience
 
