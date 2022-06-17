@@ -68,11 +68,12 @@ _I am a team player. I dedicated to helping my colleagues to thrive so that they
 ## Education
 
 ### Makers Academy (Feb 2022 - Jun 2022)
-- Behaviour-driven development and test-driven development (inside-out and outside-in)
-- Object-oriented design and programming (SOLID principles) and domain-driven design
-- Fullstack JavaScript and Ruby (including Model View Controller pattern)
+- Explored object-oriented design and programming (SOLID principles), and domain modelling via challenges including Boris Bikes, bowling scorecards, take-away ordering, airport control and bank teller functions
+- Harnessed a full Ruby stack with PostgreSQL and used the Model View Controller pattern to test-drive apps mimicking Twitter and Airbnb and a bookmark manager
+- Used DOM manipulation in JavaScript to test-drive dynamic front-end apps interfacing via APIs with third-party data (Guardian News, weather forecast, dictionary and thesaurus)
+- Followed agile processes and Extreme Programming values to deliver full stack MongoDB / Node.js / Express / Handlebars app mimicking Facebook as a team
+- Developed confident process of test and behaviour-driven development, refactoring and debugging, which I apply to everything I do
 - Pair-programming everyday through most of the course
-- Two group engineering projects following Extreme Programming values and agile approach
 - One independent engineering project drawing on product management modules completed with Udacity
 
 ### The London School of Economics and Political Science (LSE) (Sep 2008 - Aug 2009)
