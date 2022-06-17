@@ -43,29 +43,27 @@ Long-term support and technical advisory services to leading international devel
 
 _I am purposeful in what I do. I zoom from the big picture to the nitty gritty and back again, to see the wood for the trees and focus on what matters._
 
-[Read about how my impact management advisory services helped a prominent impact investor and its major UK Government stakeholder strengthen the business case for developmental investment in commercial agriculture in Africa.](/driving-for-impact.md)
-
-### Eagle-eyed
-_I am very observant, quick to notice things, and have a strong attention to detail. I am also relentless in my pursuit of high standards._
-
-[Read about how my attention to detail ensured high levels of policy compliance at Adam Smith International and Power to Change Trust, contributing to industry credibility and strengthening the evidence base for what works.](/eagle-eyed.md)
-
+- My impact management advisory services helped a prominent impact investor and its major UK Government stakeholder strengthen the business case for developmental investment in commercial agriculture in Africa. [Read more](/driving-for-impact.md)
 
 ### Unknotting problems
 _I am deeply analytical and dig into the roots of problems to disintengle and uncover effective and sometimes innovative solutions._
 
-- Product Manager for major UX and business process re-engineering initiative which delivered a significant new customer portal.
-- At Water & Sanitation for the Urban Poor, I led an interdisciplinary team of strategists in engineering, design, economics and business who delivered research to generate consumer and market insights, and used them to design and pilot innovations, and invest to scale sustainable institutional, technology and business solutions. Aims were to address constraints which limited access of low income consumers in cities in Africa and Asia to water supply and sanitation services.
+- I harnessed product strategy and user-centered design approaches and tools to focus on what mattered most in delivering a business process re-engineering initiative at Power to Change, resulting in improved customer experience, and more resource-efficient and effective service delivery systems and processes.
 
-### Nurturing people
-_I am a team player. I dedicated to helping my colleagues to thrive so that they can support me in return, and together we perform exceptionally._
+### Eagle-eyed
+_I am very observant, quick to notice things, and have a strong attention to detail. I am also relentless in my pursuit of high standards._
 
-[Read about how I used the delivery a mission-critical programme at pace at a time of crisis as an opportunitiy to motivate my colleagues and invest in their long-term skills development.](/nurturing-people.md)
+- My attention to detail ensured high levels of policy compliance at Adam Smith International and Power to Change Trust, contributing to industry credibility and strengthening the evidence base for what works. [Read more](/eagle-eyed.md)
 
 ### Getting things done
 _I combine determination with pragmatism to ensure that I am reliably dependable._
 
-[Read how I delivered Power to Change's ambitious Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board, at a time of significant upheaval at the organisation, and in society and the economy at large.](/getting-things-done.md)
+- Despite significant upheaval at the organisation, and in society and the economy at large, I delivered Power to Change's ambitious Covid-19 Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board. [Read more](/getting-things-done.md)
+
+### Nurturing people
+_I am a team player. I dedicated to helping my colleagues to thrive so that they can support me in return, and together we perform exceptionally._
+
+- I used a time-critial, mission-critical programme during a time of crisis to motivate my colleagues and invest in their long-term skills development. [Read more](/nurturing-people.md)
 
 ## Education
 
