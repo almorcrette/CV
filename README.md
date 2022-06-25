@@ -78,12 +78,12 @@ _I am very observant, quick to notice things, and have a strong attention to det
 - My attention to detail ensured high levels of policy compliance at Adam Smith International and Power to Change Trust, contributing to industry credibility and strengthening the evidence base for what works. [Read more](/skills/eagle-eyed.md)
 
 ### Getting things done
-_I combine determination with pragmatism to ensure that I am reliably dependable._
+_I combine determination with pragmatism to ensure that I am dependable in my delivery._
 
 - Despite significant upheaval at the organisation, and in society and the economy at large, I delivered Power to Change's ambitious Covid-19 Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board. [Read more](/skills/getting-things-done.md)
 
 ### Nurturing people
-_I am a team player. I dedicated to helping my colleagues to thrive so that they can support me in return, and together we perform exceptionally._
+_I am a team player. I am dedicated to helping my colleagues to thrive so that they can support me in return, and together we perform exceptionally._
 
 - I used a time-critial, mission-critical programme during a time of crisis to motivate my colleagues and invest in their long-term skills development. [Read more](/skills/nurturing-people.md)
 
