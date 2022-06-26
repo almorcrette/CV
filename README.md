@@ -112,7 +112,7 @@ _I am a team player. I am dedicated to helping my colleagues to thrive so that t
 
 ### Other qualifications:
 
-- Machine Learning - _Stanford University_ (Jan 2022 - Mar 2022) [(Credential)](coursera.org/verify/N9NGBADGL55Z)
+- Machine Learning - _Stanford University_ (Jan 2022 - Mar 2022) [(Credential)](https://www.coursera.org/account/accomplishments/verify/N9NGBADGL55Z)
 - Introduction to Complexity - _Santa Fe Institute_ (Jan 2022 - Feb 2022) [(Credential)](https://www.complexityexplorer.org/courses/119-introduction-to-complexity-2021/certificates/2277179394)
 - Product Strategy and Product Design modules of Udacity's Product Manager Nanodegree (March 2021 - August 2021)
 - Understanding the Brain: The Neurobiology of Everyday Life - _The University of Chicago_ (ongoing)
