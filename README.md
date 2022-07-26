@@ -20,7 +20,8 @@ Digital tech is a force that now profoundly shapes almost every aspect of our li
 
 ## Technologies
 
-![JavScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
@@ -38,6 +39,11 @@ Digital tech is a force that now profoundly shapes almost every aspect of our li
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## Work Experience
+
+### Makers, _Software Developer - Makers Accelerator_
+_(July 2022 - ) - Remote_
+
+Training and anticipated work in Scala. 
 
 ### Power to Change Trust, _Head of Growth Programmes_
 _(Aug 2018 - Dec 2021) - London UK_
