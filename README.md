@@ -1,12 +1,16 @@
 # Alexis Morcrette - Curriculum Vitae / Resume
 
-I am a newly trained software engineer, with more than a decade of previous professional experience in international development and social finance. I seek new challenges in tech that will harness my analytical strengths and unlock my creativity. I want to work with and learn from the best in the industry. My goal is to contribute to making our society more just and sustainable.
+I have recently trained and begun to work as a full stack software engineer. I have more than a decade of previous professional experience in international development and social finance.
 
-Over the past 12 years, I have developed into an experienced team leader, responsible for delivering ambitious investment and support programmes for community and social enterprises in the UK and the private sector in Africa and South Asia. My bosses have depended on me to nurture high-performing teams and help colleagues thrive at work. I have also made substantive contributions to corporate strategy and public policy through my research and evaluation output. 
+I seek challenges in tech that harness my analytical strengths and unlock my creativity. I'm particularly interested in using new technology to make society more just and sustainable. I like working with data.
 
-I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher, I studied economic development policy, statistical methods, and sociology at London School of Economics and Political Science. Recently, I have indulged my love of learning and wide ranging interests: I have taken online courses in machine learning, complexity science, neuroscience, illustration and digital design, while also reading cosmology and about my local Anglo-saxon history.
+I currently work for Capgemini as a Scala Developer on HM Revenue & Customs' Online Payments Service. I am also part of Makers Academy's Accelerator programming, specialising in software engineering in functional Scala.
 
-Digital tech is a force that now profoundly shapes almost every aspect of our lives and our society, and whose influence is only set to deepen. I want to get ‘under the hood’ of the tech that curates and shepherds, and sometimes frees us and contribute to leveraging it as a force for good.
+In my previous work, I was responsible for investment and support programmes that helped communities in England acquire local buildings and other assets they care about and build social enterprises around them. Before that I managed, consulted on, monitored and evaluated economic development and public health programmes in Africa and South Asia.
+
+Over those 12 years, I developed into an experienced team leader. My bosses have depended on me to nurture high-performing teams and help colleagues thrive at work.  
+  
+I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher in New Zealand, I studied economic development policy, statistical methods and sociology at the London School of Economics and Political Science. In 2022, I completed an intensive 4-month full stack web development bootcamp with Makers Academy.
 
 ## Projects
 
