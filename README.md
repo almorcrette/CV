@@ -44,6 +44,11 @@ I have a background in mathematics and philosophy from Oxford and after a stint 
 
 ## Work Experience
 
+### Capgemini, _Scala Developer_
+_(Sep 2022 - ) - Worthing UK_
+
+Working on HM Revenue & Customs' Online Payments Service (HMRC Digital).
+
 ### Makers, _Software Developer - Makers Accelerator_
 _(July 2022 - ) - Remote_
 
