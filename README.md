@@ -1,26 +1,16 @@
 # Alexis Morcrette - Curriculum Vitae / Resume
 
-I have recently trained and begun to work as a full stack software engineer. I have more than a decade of previous professional experience in international development and social finance.
+I trained and began to work as a full stack software engineer in 2022. I have more than a decade of previous professional experience in international development and social finance.
 
-I seek challenges in tech that harness my analytical strengths and unlock my creativity. I'm particularly interested in using new technology to make society more just and sustainable. I like working with data.
+I seek challenges in tech that harness my analytical strengths and unlock my creativity. I love continuously deepening my knowledge of pure typed functional programming. I also like working with data.
 
-I currently work for Capgemini as a Scala Developer on HM Revenue & Customs' Online Payments Service. I am also part of Makers Academy's Accelerator programming, specialising in software engineering in functional Scala.
+I currently work for Capgemini as a Scala Developer on HM Revenue & Customs' Online Payments Service.
 
 In my previous work, I was responsible for investment and support programmes that helped communities in England acquire local buildings and other assets they care about and build social enterprises around them. Before that I managed, consulted on, monitored and evaluated economic development and public health programmes in Africa and South Asia.
 
-Over those 12 years, I developed into an experienced team leader. My bosses have depended on me to nurture high-performing teams and help colleagues thrive at work.  
-  
-I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher in New Zealand, I studied economic development policy, statistical methods and sociology at the London School of Economics and Political Science. In 2022, I completed an intensive 4-month full stack web development bootcamp with Makers Academy.
+Over those 12 years, I developed into an experienced team leader. My bosses have depended on me to nurture high-performing teams and help colleagues thrive at work.
 
-## Projects
-
-| <div style="width:200px">Name</div>  | <div style="width:300px">Description</div>  | Tech/tools                                    |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------- |
-| [**Mix-a-Mood**](https://github.com/almorcrette/mix-a-mood)                                  | A light-hearted webapp to help users become mindful about their moods | Node, Express, Jest, Cypress |
-| [**Meta-Perverse**](https://github.com/Conor-Developer/acebook-metaperverse)                 | A webapp cloning Facebook features (Makers group engineering project)  | MongoDB, Mongoose, Express, Node, Handlebars, Jest, Cypress              |
-| [**Makersbnb**](https://github.com/monenavarro/makers_bnb)                 | A webapp cloning Airbnb features (Makers group engineering project)  | Ruby, PostgreSQL, Sinatra, RSpec, Capybara              |
-| [**Visualizing Tech Stocks**](https://github.com/almorcrette/codecademy-visualizing-tech-stocks)                 | Small data visualization project part of Analyzing Financial Data with Python Codecademy course | Python, Pandas, Numpy, MatPlotLib, Pyplot, Jupyter Notebooks |
-| **Octave ML prototypes**                 | Consolidating learning from Stanford Online Machine Learning course by rebuilding algorithms from assignments, training and fine-tuning them to new data | Octave |
+I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher in New Zealand, I studied economic development policy, statistical methods and sociology at the London School of Economics and Political Science. In 2022, I completed an intensive 4-month full stack web development bootcamp with Makers Academy and subsequently joined Makers' Accelerator programme, specialising in software engineering in functional Scala.
 
 ## Technologies
 
@@ -48,11 +38,6 @@ I have a background in mathematics and philosophy from Oxford and after a stint 
 _(Sep 2022 - ) - Worthing UK_
 
 Working on HM Revenue & Customs' Online Payments Service (HMRC Digital).
-
-### Makers, _Software Developer - Makers Accelerator_
-_(July 2022 - ) - Remote_
-
-Training and anticipated work in Scala. 
 
 ### Power to Change Trust, _Head of Growth Programmes_
 _(Aug 2018 - Dec 2021) - London UK_
@@ -104,7 +89,17 @@ _I am a team player. I am dedicated to helping my colleagues to thrive so that t
 
 ## Education
 
+### Makers Accelerator (Jul 2022 - )
+
+Self-directed training in pure typed functional scala (via Rock the JVM and EFPL - [credentials](https://www.linkedin.com/in/alexis-morcrette) to support professional placement with Capgemini / HMRC Digital. Covering:
+- Functional programming principles and program design
+- Functional concurrent and parallel programming
+- Big Data analysis with Apache Spark
+- Advanced Scala 3 and functional programming
+- Typelevel: Cats
+
 ### Makers Academy (Feb 2022 - Jun 2022)
+
 - Explored object-oriented design and programming (SOLID principles), and domain modelling via challenges including Boris Bikes, bowling scorecards, take-away ordering, airport control and bank teller functions
 - Harnessed a full Ruby stack with PostgreSQL and used the Model View Controller pattern to test-drive apps mimicking Twitter and Airbnb and a bookmark manager
 - Used DOM manipulation in JavaScript to test-drive dynamic front-end apps interfacing via APIs with third-party data (Guardian News, weather forecast, dictionary and thesaurus)
@@ -134,7 +129,7 @@ _I am a team player. I am dedicated to helping my colleagues to thrive so that t
 
 ## Other
 
-**Chair of Trustees & Adviser** (Jan 2019 - ) - [_Chronically Awesome_](https://chronicallyawesome.org.uk/)
+**Chair of Trustees & Adviser** (Jan 2019 - May 2023) - [_Chronically Awesome_](https://chronicallyawesome.org.uk/)
 
 Governance oversight at social enterprise and Registered Charity Chronically Awesome and helping with a wide variety of start up and early stage activities since its inception, including initial user research, setting initial strategy, set-up of governance structure and financial systems and incorporation and charity registration.
 
