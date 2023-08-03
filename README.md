@@ -12,26 +12,6 @@ Over those 12 years, I developed into an experienced team leader. My bosses have
 
 I have a background in mathematics and philosophy from Oxford and after a stint as a mathematics and statistics teacher in New Zealand, I studied economic development policy, statistical methods and sociology at the London School of Economics and Political Science. In 2022, I completed an intensive 4-month full stack web development bootcamp with Makers Academy and subsequently joined Makers' Accelerator programme, specialising in software engineering in functional Scala.
 
-## Technologies
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
 ## Work Experience
 
 ### Capgemini, _Scala Developer_
@@ -58,34 +38,6 @@ Long-term support and technical advisory services to leading international devel
 - Practical Action, _Programme Coordinator_ (Apr 2013 - Aug 2015)
 - Swisscontact, _Monitoring and Results Measurement Advisor_ (Apr 2012 - Mar 2013)
 - Practical Action / Practical Action Consulting, _various roles_ (Dec 2009 - March 2012)
-
-## Skills
-
-### Driving for impact
-
-_I am purposeful in what I do. I zoom from the big picture to the nitty gritty and back again, to see the wood for the trees and focus on what matters._
-
-- My impact management advisory services helped a prominent impact investor and its major UK Government stakeholder strengthen the business case for developmental investment in commercial agriculture in Africa. [Read more](/skills/driving-for-impact.md)
-
-### Unknotting problems
-_I am deeply analytical and dig into the roots of problems to disintengle and uncover effective and sometimes innovative solutions._
-
-- I harnessed product strategy and user-centered design approaches and tools to focus on what mattered most in delivering a business process re-engineering initiative at Power to Change, resulting in improved customer experience, and more resource-efficient and effective service delivery systems and processes.
-
-### Eagle-eyed
-_I am very observant, quick to notice things, and have a strong attention to detail. I am also relentless in my pursuit of high standards._
-
-- My attention to detail ensured high levels of policy compliance at Adam Smith International and Power to Change Trust, contributing to industry credibility and strengthening the evidence base for what works. [Read more](/skills/eagle-eyed.md)
-
-### Getting things done
-_I combine determination with pragmatism to ensure that I am dependable in my delivery._
-
-- Despite significant upheaval at the organisation, and in society and the economy at large, I delivered Power to Change's ambitious Covid-19 Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board. [Read more](/skills/getting-things-done.md)
-
-### Nurturing people
-_I am a team player. I am dedicated to helping my colleagues to thrive so that they can support me in return, and together we perform exceptionally._
-
-- I used a time-critial, mission-critical programme during a time of crisis to motivate my colleagues and invest in their long-term skills development. [Read more](/skills/nurturing-people.md)
 
 ## Education
 
@@ -126,6 +78,34 @@ Self-directed training in pure typed functional scala (via Rock the JVM and EFPL
 - Introduction to Complexity - _Santa Fe Institute_ (Jan 2022 - Feb 2022) [(Credential)](https://www.complexityexplorer.org/courses/119-introduction-to-complexity-2021/certificates/2277179394)
 - Product Strategy and Product Design modules of Udacity's Product Manager Nanodegree (March 2021 - August 2021)
 - Understanding the Brain: The Neurobiology of Everyday Life - _The University of Chicago_ (ongoing)
+
+## Skills
+
+### Driving for impact
+
+_I am purposeful in what I do. I zoom from the big picture to the nitty gritty and back again, to see the wood for the trees and focus on what matters._
+
+- My impact management advisory services helped a prominent impact investor and its major UK Government stakeholder strengthen the business case for developmental investment in commercial agriculture in Africa. [Read more](/skills/driving-for-impact.md)
+
+### Unknotting problems
+_I am deeply analytical and dig into the roots of problems to disintengle and uncover effective and sometimes innovative solutions._
+
+- I harnessed product strategy and user-centered design approaches and tools to focus on what mattered most in delivering a business process re-engineering initiative at Power to Change, resulting in improved customer experience, and more resource-efficient and effective service delivery systems and processes.
+
+### Eagle-eyed
+_I am very observant, quick to notice things, and have a strong attention to detail. I am also relentless in my pursuit of high standards._
+
+- My attention to detail ensured high levels of policy compliance at Adam Smith International and Power to Change Trust, contributing to industry credibility and strengthening the evidence base for what works. [Read more](/skills/eagle-eyed.md)
+
+### Getting things done
+_I combine determination with pragmatism to ensure that I am dependable in my delivery._
+
+- Despite significant upheaval at the organisation, and in society and the economy at large, I delivered Power to Change's ambitious Covid-19 Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board. [Read more](/skills/getting-things-done.md)
+
+### Nurturing people
+_I am a team player. I am dedicated to helping my colleagues to thrive so that they can support me in return, and together we perform exceptionally._
+
+- I used a time-critial, mission-critical programme during a time of crisis to motivate my colleagues and invest in their long-term skills development. [Read more](/skills/nurturing-people.md)
 
 ## Other
 
