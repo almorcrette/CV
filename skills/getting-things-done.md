@@ -6,7 +6,7 @@ _I combine determination with pragmatism to ensure that I am dependable in deliv
 
 **How I delivered Power to Change's ambitious Renewal Initative on time and budget, with very positive feedback from beneficiaries, stakeholders, partners and our Board, at a time of significant upheaval at the organisation, and in society and the economy at large**
 
-In 2020, the Covid-19 pandemic put at risk Power to Change Trust's £70m of investments in upwards of 2,000 community businesses around England. As one of three heads of programme, I was responsible for delivering our response. Our aim was to protect the impact of our work to date and our investments by helping organisations we invested in to step up their work in their communities at this time of need even while their trading income were being devastated.
+In 2020, the Covid-19 pandemic put at risk Power to Change Trust's £70m of investments in upwards of 2,000 community businesses around England. As one of three heads of programme, I was responsible for delivering our response. Our aim was to protect the impact of our work to date and our investments by helping organisations we invested in to step up their work in their communities at this time of need even while their trading incomes were being devastated.
 
 In July 2020, having just finished an initial emergency response scheme, I was asked to lead the scoping, development and delivery of a new £5.5m Renewal Initiative, to run from August 2020 - December 2021. The challenge was manifold: it was essential that this new initiative was delivered on time and on budget, in a context of enormous uncertainty and constant change, leaning on a committed but distracted and tired team.
 
